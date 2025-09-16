@@ -48,6 +48,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmhaske&layout=compact&theme=radical)
 
 
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -58,10 +59,3 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🔧 [DevOps Toolkit](https://github.com/pavanmhaske/devops-toolkit) – Tools and scripts for automating infrastructure
-- 📦 [Dockerized Python App](https://github.com/pavanmhaske/docker-python-app) – A sample Python app with Docker setup
-
----
-
-Feel free to copy this into your `README.md` file in your GitHub profile repository (`pavanmhaske/pavanmhaske`). Want help setting up GitHub Actions to auto-update this with recent commits or blog posts? I can guide you through that next.
