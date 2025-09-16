@@ -43,12 +43,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanmhaske&show_icons=true&theme=radical" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmhaske&layout=compact&theme=radical" alt="top-langs" />
-</p>
+### 📊 GitHub Stats
 
----
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmhaske&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmhaske&layout=compact&theme=radical)
+
 
 ### 🔗 Connect with Me
 
