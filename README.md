@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently exploring DevOps, Cloud, and Automation
+- 🔭 Currently exploring Cloud, and Automation
 - 🌱 Learning AWS, Docker, and CI/CD pipelines
 - 🤝 Open to collaboration on open-source and tech projects
 - 💬 Ask me about Python, Linux, or Git
@@ -40,12 +40,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmhaske&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmhaske&layout=compact&theme=radical)
 
 
 
