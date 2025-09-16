@@ -43,8 +43,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmhaske&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmhaske&layout=compact&theme=radical)
