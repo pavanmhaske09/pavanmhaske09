@@ -1,3 +1,12 @@
+<h1 align="center">Hey there 👋, I'm Pavan Mhaske</h1>
+<h3 align="center">☁️ Cloud Adventurer | ⚙️ Automation Alchemist | 🛠️ Open Source Crusader</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanmhaske&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile-views" />
+</p>
+
+---
+
 
 ---
 
