@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pavan Mhaske</h1>
-<h3 align="center">🚀 Learning, Building, and Collaborating | 🌐 Open Source Enthusiast</h3>
+<h3 align="center">Learning, Building, and Collaborating | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanmhaske&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AWS+Enthusiast+☁️;Automation+Explorer+⚙️;Pythonista+🐍;Linux+Lover+🐧;Open+Source+Contributor+🌍" alt="Typing SVG" />
 </p>
 
 ---
