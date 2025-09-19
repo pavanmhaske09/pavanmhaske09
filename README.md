@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AWS+Enthusiast+☁️;Automation+Explorer+⚙️;Pythonista+🐍;Linux+Lover+🐧;Open+Source+Contributor+🌍" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AWS+Enthusiast+☁️;Automation+Explorer+⚙️;Linux+Lover+🐧;Open+Source+Contributor+🌍" alt="Typing Animation" />
 </p>
 <h3 align="center">Learning, Building, and Collaborating | Open Source Enthusiast</h3>
 
