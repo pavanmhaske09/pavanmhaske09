@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently exploring **Cloud** and **Automation**
-- 🌱 Learning **AWS**, **Docker**, and **CI/CD pipelines**
+- 🌱 Learning **AWS**, **Docker**,**Terraform, and **CI/CD pipelines**
 - 🤝 Open to collaboration on **open-source** and **tech projects**
 - 💬 Ask me about **Python**, **Linux**, or **Git**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/pavan-mhaske-8a6735325)
