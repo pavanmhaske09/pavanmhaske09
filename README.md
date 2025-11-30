@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently exploring **Cloud** and **Automation**
-- 🌱 Learning **AWS**, **Docker**,**Terraform, and **CI/CD pipelines**
+- 🌱 Learning **AWS**, **Docker**,Terraform and **CI/CD pipelines**
 - 🤝 Open to collaboration on **open-source** and **tech projects**
 - 💬 Ask me about **Python**, **Linux**, or **Git**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/pavan-mhaske-8a6735325)
@@ -30,6 +30,10 @@
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" 
+       alt="Terraform" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
