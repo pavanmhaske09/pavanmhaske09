@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Pavan+Mhaske" alt="Typing SVG" />
 </p>
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AWS+Enthusiast+☁️;Automation+Explorer+⚙️;Linux+Lover+🐧;Open+Source+Contributor+🌍" alt="Typing Animation" />
 </p>
