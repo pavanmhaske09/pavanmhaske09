@@ -1,3 +1,37 @@
+// Ensure GSAP is loaded first!
+
+function animateBanner() {
+    // 1. Initial State: Set everything below the view
+    gsap.set('.banner-title .word', { y: '100%', opacity: 0 });
+    gsap.set('.banner-subtitle', { opacity: 0, y: 20 });
+
+    // 2. Define the Animation Timeline
+    const tl = gsap.timeline({ defaults: { ease: "power3.out", duration: 0.8 } });
+
+    // Staggered reveal for the main title words
+    tl.to('.banner-title .word', {
+        y: '0%', // Move from 100% down to 0
+        opacity: 1,
+        stagger: 0.15 // Time gap between each word starting
+    })
+    // Subtle, simultaneous parallax movement on the overlay (to simulate background movement)
+    .to('.banner-overlay', {
+        scale: 1.1, // Zoom in slightly
+        duration: 2,
+        ease: "none"
+    }, "<") // Start at the same time as the title
+
+    // Subtitle fade and move-up effect
+    .to('.banner-subtitle', {
+        opacity: 1,
+        y: 0,
+        duration: 0.6
+    }, ">-0.4"); // Start 0.4 seconds before the previous animation ends
+
+}
+
+// Run the animation once the page is loaded
+animateBanner();
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="banner" width="100%" height="300px">
 
 <p align="center">
